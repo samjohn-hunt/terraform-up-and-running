@@ -1,6 +1,3 @@
-# terraform-up-and-running
-Completing the Terraform Up & Running textbook to learn Infrastructure as Code.
-
 # Terraform Learning Project
 
 This repository tracks my hands-on learning with **Terraform** and AWS, following *Terraform: Up & Running*.  
