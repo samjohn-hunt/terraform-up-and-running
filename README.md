@@ -26,6 +26,3 @@ The focus is on understanding how infrastructure-as-code behaves in practice, no
 ## Reading Progress
 - Book: Terraform: Up & Running
 - Current page: 60 / ~400
-<progress max="100" value="26"></progress><br/>
-<progress max="100" value="50"></progress><br/>
-<progress max="100" value="73"><span></span></progress>
